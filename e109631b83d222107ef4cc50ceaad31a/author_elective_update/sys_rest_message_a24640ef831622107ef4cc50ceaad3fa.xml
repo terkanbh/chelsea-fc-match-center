@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>TheSportsDB - Get last result</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=133610</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:38:34</sys_created_on>
+        <sys_id>a24640ef831622107ef4cc50ceaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TheSportsDB - Get last result</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_update_name>sys_rest_message_a24640ef831622107ef4cc50ceaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:38:34</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</application>
+        <file_path/>
+        <instance_id>5a4c5352fb5562900c92f633beefdc20</instance_id>
+        <instance_name>dev346472</instance_name>
+        <name>sys_rest_message_a24640ef831622107ef4cc50ceaad3fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><description/><name>TheSportsDB - Get last result</name><oauth2_profile/><protocol_name/><rest_endpoint>https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=133610</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-28 14:38:34</sys_created_on><sys_id>a24640ef831622107ef4cc50ceaad3fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TheSportsDB - Get last result</sys_name><sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package><sys_policy/><sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope><sys_update_name>sys_rest_message_a24640ef831622107ef4cc50ceaad3fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-28 14:38:34</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-1639176047</payload_hash>
+        <record_name>TheSportsDB - Get last result</record_name>
+        <reverted_from/>
+        <source>c91c631b83d222107ef4cc50ceaad39f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:38:34</sys_created_on>
+        <sys_id>e6864ceb835622107ef4cc50ceaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197b6f9d1680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:38:34</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>ea864ceb7c56221067eb2722c0b1ad73</update_guid>
+        <update_guid_history>ea864ceb7c56221067eb2722c0b1ad73:-1639176047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:44:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>3db9836b1e96474e9f44b43902156641</sys_id>
+        <sys_metadata>a24640ef831622107ef4cc50ceaad3fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TheSportsDB - Get last result</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_scope_delete display_value="">842ce9df67e541cfba0f3a91a436e161</sys_scope_delete>
+        <sys_update_name>sys_rest_message_a24640ef831622107ef4cc50ceaad3fa</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_a24640ef831622107ef4cc50ceaad3fa">e6864ceb835622107ef4cc50ceaad374</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:44:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

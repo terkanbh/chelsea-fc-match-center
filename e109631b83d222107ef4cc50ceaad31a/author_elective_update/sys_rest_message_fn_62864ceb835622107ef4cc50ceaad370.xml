@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>TheSportsDB - Get last result [ Default GET ]</qualified_name>
+        <rest_endpoint>https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=133610</rest_endpoint>
+        <rest_message display_value="TheSportsDB - Get last result">a24640ef831622107ef4cc50ceaad3fa</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:38:34</sys_created_on>
+        <sys_id>62864ceb835622107ef4cc50ceaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_update_name>sys_rest_message_fn_62864ceb835622107ef4cc50ceaad370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:38:34</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</application>
+        <file_path/>
+        <instance_id>5a4c5352fb5562900c92f633beefdc20</instance_id>
+        <instance_name>dev346472</instance_name>
+        <name>sys_rest_message_fn_62864ceb835622107ef4cc50ceaad370</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>TheSportsDB - Get last result [ Default GET ]</qualified_name><rest_endpoint>https://www.thesportsdb.com/api/v1/json/123/eventslast.php?id=133610</rest_endpoint><rest_message display_value="TheSportsDB - Get last result">a24640ef831622107ef4cc50ceaad3fa</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-28 14:38:34</sys_created_on><sys_id>62864ceb835622107ef4cc50ceaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package><sys_policy/><sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope><sys_update_name>sys_rest_message_fn_62864ceb835622107ef4cc50ceaad370</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-28 14:38:34</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1907171684</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>c91c631b83d222107ef4cc50ceaad39f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:38:34</sys_created_on>
+        <sys_id>2e864ceb835622107ef4cc50ceaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197b6f9d1570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:38:34</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>22864ceb8256221014cef8cf7b718572</update_guid>
+        <update_guid_history>22864ceb8256221014cef8cf7b718572:-1907171684</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 14:43:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>1058e36f2eeb4190810ec3faa7df2144</sys_id>
+        <sys_metadata>62864ceb835622107ef4cc50ceaad370</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_scope_delete display_value="">842ce9df67e541cfba0f3a91a436e161</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_62864ceb835622107ef4cc50ceaad370</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_62864ceb835622107ef4cc50ceaad370">2e864ceb835622107ef4cc50ceaad372</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 14:43:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
