@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1783904_chelse_1.admin" name="x_1783904_chelse_1.admin">2509631b83d222107ef4cc50ceaad3dd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 12:29:37</sys_created_on>
+        <sys_id>6109631b83d222107ef4cc50ceaad3e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2509631b83d222107ef4cc50ceaad3dd</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6109631b83d222107ef4cc50ceaad3e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 12:29:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
