@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1e9eef9f83d222107ef4cc50ceaad306" label="Event" max_length="40" name="x_1783904_chelse_1_event" type="collection">
+        <element label="Start Date Time" max_length="40" name="start_date_time" type="glide_date_time"/>
+        <element display="true" label="ID" max_length="200" name="id" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Home Team Badge" max_length="200" name="home_team_badge" type="string"/>
+        <element label="Home Team Name" max_length="100" name="home_team_name" type="string"/>
+        <element label="Away Team Score" max_length="255" name="away_team_score" type="integer"/>
+        <element label="Away Team Badge" max_length="200" name="away_team_badge" type="string"/>
+        <element label="Home Team Score" max_length="255" name="home_team_score" type="integer"/>
+        <element label="Away Team Name" max_length="100" name="away_team_name" type="string"/>
+    </element>
+</database>

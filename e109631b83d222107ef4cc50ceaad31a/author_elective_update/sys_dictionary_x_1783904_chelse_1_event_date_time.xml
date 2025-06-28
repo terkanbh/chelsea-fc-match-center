@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="date_time" table="x_1783904_chelse_1_event">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Date Time</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>date_time</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date_time</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
+        <name>x_1783904_chelse_1_event</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 13:06:52</sys_created_on>
+        <sys_id>db81bf93831622107ef4cc50ceaad3ac</sys_id>
+        <sys_name>Date Time</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_update_name>sys_dictionary_x_1783904_chelse_1_event_date_time</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 13:14:36</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</application>
+        <file_path/>
+        <instance_id>5a4c5352fb5562900c92f633beefdc20</instance_id>
+        <instance_name>dev346472</instance_name>
+        <name>sys_dictionary_x_1783904_chelse_1_event_date_time</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="date_time" table="x_1783904_chelse_1_event"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Date Time</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>date_time</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>255</max_length><name>x_1783904_chelse_1_event</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-28 13:06:52</sys_created_on><sys_id>db81bf93831622107ef4cc50ceaad3ac</sys_id><sys_name>Date Time</sys_name><sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package><sys_policy/><sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope><sys_update_name>sys_dictionary_x_1783904_chelse_1_event_date_time</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-28 13:14:36</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-929284700</payload_hash>
+        <record_name>Event.Date Time</record_name>
+        <reverted_from/>
+        <source>c91c631b83d222107ef4cc50ceaad39f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 13:14:36</sys_created_on>
+        <sys_id>2053bb57831622107ef4cc50ceaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197b6acf05f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 13:14:36</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e453bb57ec1622101d4dbe3ed65af031</update_guid>
+        <update_guid_history>e453bb57ec1622101d4dbe3ed65af031:-929284700,5c53bb57b9162210d9ed446248b82d20:1370015849,be237757061622107fbd44298e146db2:-929284700,362377573c1622105a48680999c9bea2:1370015849,f381ff9320162210ef6017a8fa57d0d2:-929284700,7381ff93021622106549decc9c6f51b1:1370015849,1381bf935c16221075f093c267b04de5:1294228961</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 13:16:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>299cd7e762324e8589d463b77c30eb09</sys_id>
+        <sys_metadata>db81bf93831622107ef4cc50ceaad3ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date Time</sys_name>
+        <sys_package display_value="Chelsea FC Match Center" source="x_1783904_chelse_1">e109631b83d222107ef4cc50ceaad31a</sys_package>
+        <sys_parent display_value="Event">1e9eef9f83d222107ef4cc50ceaad306</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Chelsea FC Match Center">e109631b83d222107ef4cc50ceaad31a</sys_scope>
+        <sys_scope_delete display_value="">842ce9df67e541cfba0f3a91a436e161</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1783904_chelse_1_event_date_time</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1783904_chelse_1_event_date_time">2053bb57831622107ef4cc50ceaad332</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 13:16:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
